@@ -117,8 +117,8 @@
     position: absolute;
     font-size: 14px;
     color: #9b9b9b;
-    margin-top: calc(50px + 20px + 17px);
     left: 0;
     right: 0;
-    text-align: center;
+    top: 50%;
+    margin-top: 10px;
 }
