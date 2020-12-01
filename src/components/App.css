@@ -1,0 +1,20 @@
+
+.App {
+    padding: 40px 0 80px;
+    box-sizing: border-box;
+}
+
+.main-content{
+    box-sizing: border-box;
+    max-width: 1030px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.component{
+    box-sizing: border-box;
+    border-radius: 10px;
+    border: solid 1px #ecf2ff;
+    background-color: #fff;
+    margin-top: 40px;
+}
